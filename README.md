@@ -56,17 +56,17 @@ Our application is built using modern, scalable technologies:
 1. Clone the repo:
    ```bash
    git clone [https://github.com/your-username/your-project-name.git](https://github.com/your-username/your-project-name.git)
-Install dependencies:
+2. Install dependencies:
 
-Bash
+3. Bash
 npm install
 Set up your environment variables:
 
-Bash
+4. Bash
 cp .env.example .env
 Run the application:
 
-Bash
+5. Bash
 npm run start
 🤝 Contributing
 We welcome contributions from the community! If you'd like to help improve [Project Name], please feel free to:
@@ -85,6 +85,5 @@ Open a Pull Request.
 Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
-[Your Name/Organization] - @tansuanyy - tansuanyy@hotmail.com
-
+TWitter: @tansuanyy  email: tansuanyy@hotmail.com
 Project Link: https://github.com/Yansuanx/Feed-Stream
