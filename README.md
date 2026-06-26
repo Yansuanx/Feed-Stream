@@ -85,6 +85,6 @@ Open a Pull Request.
 Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
-[Your Name/Organization] - @your-twitter - your.email@example.com
+[Your Name/Organization] - @tansuanyy - tansuanyy@hotmail.com
 
-Project Link: https://github.com/your-username/your-project-name
+Project Link: https://github.com/Yansuanx/Feed-Stream
